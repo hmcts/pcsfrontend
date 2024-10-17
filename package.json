@@ -41,7 +41,7 @@
     "@types/require-directory": "^2.1.2",
     "@types/serve-favicon": "^2.5.4",
     "applicationinsights": "^3.2.1",
-    "axios": "^1.4.0",
+    "axios": "^1.7.4",
     "body-parser": "^1.20.2",
     "config": "^3.3.9",
     "cookie-parser": "^1.4.6",
